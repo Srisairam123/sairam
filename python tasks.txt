@@ -1,0 +1,32 @@
+1.create a function to find prime numbers in a given range.
+2.create a function to find the armstrong number in the range of 100 to 200.
+3.take a string "problem solving using python"
+   a.find the length of the string
+   b.change the string to ower case
+   c.print the string in rreverse order
+   d.split the string using spaces
+   e.print the string without spaces
+   f.find how many times "s" is repeated in a given string.
+4.take a string "python programing by pton platforms"
+     a.find how may times python is repeated.
+5.create a function to find the averages of cubes of all the even numbers in a given range.
+6.create a function to calculate the average of first n prime numbers.
+7.create a function to find the perfect numbers in a given range.
+8.write a program to find the second largest number in a given range.
+9.create a function to convert decimal number to binary.
+10.create a function to prit range of multiplication of tables.
+11.create a function to find to validate phone number using Regular expressions.  
+12.create a function to find special numbers in given range.
+13.create a function to print only alphabets from a string.
+14.create a function to find the factorials of the numbers in given range.
+15.create a function to find the sum of the digits of a given number.
+16.create 3*3 array using range range parameter.
+17.create afunction to perform the calculator operations.
+18.create a function to find the first and last digits of a number
+19.create a function to find even or odd number.
+20.create a function to check whether the given number is palindrome or not.
+21.create a Dataframe of marks in 4 different subjects using range parameter.
+22.create a fnction to find leap year in a particular range.
+23.create a function to calculate a number divisible by 2 and 3 but not by 4.
+24.create a function to find fibanoci series of a given number.
+25.create a dataframe with two columns andplot  scatter plot to those two columns in the same plane.
